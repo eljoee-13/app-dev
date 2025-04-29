@@ -7,8 +7,3 @@
 5. Coach Carter
 
 
----
-
-<a name="some-id" />
-
-##### Section with some ID
