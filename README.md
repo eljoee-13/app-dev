@@ -1,6 +1,10 @@
-# ⬇️ My Favorite Nudes
+# ⬇️ My Favorite Movies/Series
 
-_ls.sample.
+1. The Last Dance
+2. Solo-Leveling
+3. Kuroko no Basket
+4. Hustle
+5. Coach Carter
 
 
 ---
